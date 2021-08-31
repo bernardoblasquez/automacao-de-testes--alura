@@ -1,6 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Componente de Transação do extrato O spnapshot do comonente sempre deve permanecer o mesmo 1`] = `
+
+exports[`Componente de Transação do extrato O spnapshot do componente sempre deve permanecer o mesmo 1`] = `
 <div
   class="transacao-container"
 >
